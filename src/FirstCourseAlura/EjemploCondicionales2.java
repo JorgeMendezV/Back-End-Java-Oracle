@@ -6,7 +6,7 @@ public class EjemploCondicionales2 {
 		// optimizacion de codigo
 		
 		int edad = 17;
-		int cantidadPersonas = 2;
+		// int cantidadPersonas = 2;
 		
 		// variables boolean primitiva
 		
